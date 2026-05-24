@@ -1,8 +1,8 @@
 ---
 name: User Story
-about: This template is for creating user stories
-title: "[USER STORY] Create a product in the catalog"
-labels: user story
+about: 
+title: 
+labels: 
 assignees: ''
 ---
 
