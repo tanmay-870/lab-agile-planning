@@ -8,9 +8,9 @@ assignees: ''
 
 ## User Story
 
-As a product manager  
-I need the ability to create a new product in the catalog  
-So that customers can view and purchase products online  
+As a, []  
+I need, []  
+So that, [] 
 
 ## Details and Assumptions
 
